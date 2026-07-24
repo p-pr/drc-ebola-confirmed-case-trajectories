@@ -21,7 +21,7 @@ The comparison uses days since officials announced each outbreak, rather than ca
 - **2018–20:** [DRC Ministry of Health and WHO reporting distributed by HDX](https://data.humdata.org/dataset/ebola-cases-and-deaths-drc-north-kivu); and the [WHO outbreak notice](https://www.who.int/emergencies/disease-outbreak-news/item/4-august-2018-ebola-drc-en)
 - **2012:** [WHO Disease Outbreak News reports](https://www.who.int/emergencies/disease-outbreak-news/item/2012_10_26-en). The long-form file links the specific WHO report used for each observation.
 
-## What this data does — and does not — show
+## What this data shows
 
 The files contain **confirmed cases only**. They exclude probable and suspected cases so that the three lines use the same, relatively strict measure. The true number of infections was likely higher.
 
