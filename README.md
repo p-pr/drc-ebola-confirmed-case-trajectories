@@ -6,7 +6,7 @@ This repository contains the data used to compare how quickly laboratory-confirm
 - **2018–20:** the largest recorded Ebola outbreak in DRC, caused by Zaire ebolavirus
 - **2012:** the previous recorded Bundibugyo ebolavirus outbreak in DRC
 
-The comparison uses days since officials announced each outbreak, rather than calendar dates. The 2026 series is current through **July 21, 2026**, when INSP Situation Report 68 reported **2,536 confirmed cases**.
+The comparison uses days since officials announced each outbreak, rather than calendar dates. The 2026 series is current through **July 22, 2026**, when INSP Situation Report 69 reported **2,905 confirmed cases**.
 
 ## Files
 
@@ -17,11 +17,11 @@ The comparison uses days since officials announced each outbreak, rather than ca
 
 ## Sources
 
-- **2026:** [DRC National Institute of Public Health Situation Report 68](https://insp.cd/wp-content/uploads/2026/07/SitRep_MVE_RDC_N%C2%B0_68_21-07-2026.pdf); [INSP situation-report data compiled by INRB-UMIE](https://github.com/INRB-UMIE/BDBV2026-Data); and the [WHO outbreak notice](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON602)
+- **2026:** [DRC National Institute of Public Health Situation Report 69](https://github.com/INRB-UMIE/BDBV2026-Data/blob/main/data/insp_sitrep/raw/SitRep_MVE_069_2026.pdf); [INSP situation-report data compiled by INRB-UMIE](https://github.com/INRB-UMIE/BDBV2026-Data); and the [WHO outbreak notice](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON602)
 - **2018–20:** [DRC Ministry of Health and WHO reporting distributed by HDX](https://data.humdata.org/dataset/ebola-cases-and-deaths-drc-north-kivu); and the [WHO outbreak notice](https://www.who.int/emergencies/disease-outbreak-news/item/4-august-2018-ebola-drc-en)
 - **2012:** [WHO Disease Outbreak News reports](https://www.who.int/emergencies/disease-outbreak-news/item/2012_10_26-en). The long-form file links the specific WHO report used for each observation.
 
-## What this data shows
+## What this data does — and does not — show
 
 The files contain **confirmed cases only**. They exclude probable and suspected cases so that the three lines use the same, relatively strict measure. The true number of infections was likely higher.
 

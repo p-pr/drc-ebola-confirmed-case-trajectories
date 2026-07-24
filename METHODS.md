@@ -37,7 +37,7 @@ The INRB-UMIE processed 2026 file dates the first eight confirmations to May 14,
 5. Pivot the observations into one outbreak column per series for `datawrapper.csv`.
 6. Preserve missing dates as blank cells. No daily case values are interpolated.
 
-The 2026 series includes 2,536 confirmed cases on July 21 from INSP Situation Report 68. The 2018–20 chart is limited to the first 100 elapsed days. The processed file extends to day 101 only to place the retrospective 2012 endpoint.
+The 2026 series includes 2,905 confirmed cases on July 22 from INSP Situation Report 69. The report says the large cumulative increase mainly reflects the integration of harmonized provincial databases and does not represent only cases reported in the preceding 24 hours. The 2018–20 chart is limited to the first 100 elapsed days. The processed file extends to day 101 only to place the retrospective 2012 endpoint.
 
 ## The 2012 dotted line
 
@@ -51,6 +51,6 @@ Contemporaneous end-of-outbreak reporting and the later WHO retrospective summar
 
 ## Source-specific limitations
 
-- **2026:** The INRB-UMIE file compiles official INSP situation reports. The July 21 total was added directly from INSP Situation Report 68.
+- **2026:** The INRB-UMIE file compiles official INSP situation reports. The July 21 and July 22 totals were added directly from INSP Situation Reports 68 and 69, respectively.
 - **2018–20:** The HDX dataset includes a second header row containing Humanitarian Exchange Language tags. That row was excluded. The chart begins with 13 confirmed cases on day 2; the initial WHO notice described four GeneXpert-positive samples as presumptive, so they are not treated as confirmed in this series.
 - **2012:** The values were manually transcribed from official WHO Disease Outbreak News reports. Sparse reporting means the solid line contains only published observation dates.
