@@ -25,6 +25,6 @@ The comparison uses days since officials announced each outbreak, rather than ca
 
 The files contain **confirmed cases only**. They exclude probable and suspected cases so that the three lines use the same, relatively strict measure. The true number of infections was likely higher.
 
-The chart does not estimate values for dates without a published total. The only dotted segment is the 2012 connector between the last contemporaneous report and a later retrospective final tally; it signals that the timing of the additional confirmations is unknown.
+The chart does not estimate values for dates without a published total. The 2012 line is dotted because only a few confirmed-case totals were published; it connects those official observations rather than estimating daily case counts. After day 68, the line connects the last contemporaneous report with the retrospective final tally because the dates of the final three confirmations are unknown.
 
 These three outbreaks were selected for editorial comparison, not as a complete history of Ebola in DRC. Anyone reusing the data should cite the original sources as well as this compilation. Corrections are welcome through GitHub issues.

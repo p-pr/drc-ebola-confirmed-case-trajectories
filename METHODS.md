@@ -39,11 +39,13 @@ The INRB-UMIE processed 2026 file dates the first eight confirmations to May 14,
 
 The 2026 series includes 2,536 confirmed cases on July 21 from INSP Situation Report 68. The 2018–20 chart is limited to the first 100 elapsed days. The processed file extends to day 101 only to place the retrospective 2012 endpoint.
 
-## The 2012 dotted connector
+## The 2012 dotted line
 
 The last contemporaneous WHO report with a confirmed/probable breakdown was on day 68 and listed **35 confirmed cases**. A later WHO retrospective summary gives a final total of **38 confirmed cases** when the outbreak ended on day 101.
 
-WHO does not publish the dates on which those final three cases were confirmed. The chart therefore places only two values in the separate `DRC 2012 — timing unknown` column: 35 on day 68 and 38 on day 101. In Datawrapper, that series is styled as a dotted line. It is a connector between two known totals, not an estimate of the daily trajectory.
+The entire 2012 line is dotted because only a few confirmed-case totals were published. Through day 68, it connects dated official observations and does not estimate daily case counts.
+
+WHO does not publish the dates on which the final three cases were confirmed. The chart therefore places only two values in the separate `DRC 2012 — timing unknown` column: 35 on day 68 and 38 on day 101. Both 2012 columns are styled as dotted blue lines in Datawrapper so they appear as one series. The post-day-68 segment connects two known totals; it does not show when the additional confirmations occurred.
 
 Contemporaneous end-of-outbreak reporting and the later WHO retrospective summary differ on the overall case count, and the contemporaneous report does not provide a final confirmed/probable split. For consistency with the chart's confirmed-only measure, the dataset uses the retrospective total of 38 and labels it separately.
 
